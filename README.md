@@ -7,6 +7,6 @@ several accounts ...
 
 This modif was part of a second test
 
-#### in du-cedre branch ####
+#### from du-cedre (plainly) ####
 
 this part is outwhere ...
