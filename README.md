@@ -11,4 +11,5 @@ this part is outwhere ...
 
 * #### some appending ####
 We don't know yet wether this will **stick** to the bottom.
-*it was solved at merging after conflict*
+
+*(it was solved at merging after conflict)*
