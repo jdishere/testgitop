@@ -7,6 +7,11 @@ several accounts ...
 
 This modif was part of a second test
 
+#### in du-cedre branch ####
+
+this part is outwhere ...
+
 #### some appending ####
 
 We don't know yet wether this will **stick** to the bottom.
+*it was solved at merging after conflict*
